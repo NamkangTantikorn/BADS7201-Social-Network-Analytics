@@ -1,4 +1,9 @@
 # BADS7201 Social Network Analysis - Food Ingredients
+[![](https://img.shields.io/badge/-Knowledge--Graph-blueviolet)](#) 
+[![](https://img.shields.io/badge/-Node--Embeeding-blueviolet)](#) 
+[![](https://img.shields.io/badge/-K--Mean-orange)](#) 
+[![](https://img.shields.io/badge/-Classification-orange)](#)
+[![](https://img.shields.io/badge/-Python-brightgreen)](#)
 
 Graphs are a general language for describing and analyzing entities with relations/interactions.
 
